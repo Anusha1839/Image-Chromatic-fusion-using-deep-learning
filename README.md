@@ -92,7 +92,7 @@ Project Overview
 + Creative content generation
 + Medical imaging
 
-#Project Team
+# Project Team
 - Kasthuri Varshith Reddy
 - Kasula Niharika
 - Katakam Ediga Dhanusha
